@@ -1,6 +1,6 @@
-🚀 KeyMod BETA v0.1 Features, Plugins, and Purpose
+# 🚀 KeyMod BETA v0.1 Features, Plugins, and Purpose
 
-🌐 Mod Purpose
+## 🌐 Mod Purpose
 
 KeyMod is a full RocketGoal enhancement suite built to:
 
