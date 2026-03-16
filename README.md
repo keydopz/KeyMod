@@ -84,4 +84,4 @@ Custom startup loading style.
 
 Visual FX (Visual)
 
-Real-time filter pipeline (vibra
+# AND MORE
